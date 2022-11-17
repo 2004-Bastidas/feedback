@@ -146,17 +146,17 @@ input:focus {
 }
 
 .btn {
-  color: #fff;
+  color: rgb(171, 0, 143);
   border: 0;
   border-radius: 8px;
-  color: #fff;
+  color: rgb(255, 255, 255);
   width: 100px;
   height: 40px;
   cursor: pointer;
 }
 
 .btn-primary {
-  background-color: #202142;
+  background-color: #740055;
 }
 
 .btn-secondary {
